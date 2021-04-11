@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 23 20:11:16 2020
-
-@author: Amina Asif
-"""
 
 from scipy import spatial
 from numpy.random import randn,randint #importing randn
